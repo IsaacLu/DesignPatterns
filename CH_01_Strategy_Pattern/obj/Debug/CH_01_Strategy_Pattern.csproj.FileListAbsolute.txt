@@ -1,0 +1,7 @@
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\bin\Debug\CH_01_Strategy_Pattern.exe.config
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\bin\Debug\CH_01_Strategy_Pattern.exe
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\bin\Debug\CH_01_Strategy_Pattern.pdb
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\obj\Debug\CH_01_Strategy_Pattern.csprojResolveAssemblyReference.cache
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\obj\Debug\CH_01_Strategy_Pattern.csproj.CoreCompileInputs.cache
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\obj\Debug\CH_01_Strategy_Pattern.exe
+D:\Learning\DesignPatterns\CH_01_Strategy_Pattern\obj\Debug\CH_01_Strategy_Pattern.pdb

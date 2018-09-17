@@ -1,0 +1,7 @@
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\bin\Debug\CH_02_Observer_Pattern.exe.config
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\bin\Debug\CH_02_Observer_Pattern.exe
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\bin\Debug\CH_02_Observer_Pattern.pdb
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\obj\Debug\CH_02_Observer_Pattern.csprojResolveAssemblyReference.cache
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\obj\Debug\CH_02_Observer_Pattern.csproj.CoreCompileInputs.cache
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\obj\Debug\CH_02_Observer_Pattern.exe
+D:\Learning\DesignPatterns\CH_02_Observer_Pattern\obj\Debug\CH_02_Observer_Pattern.pdb
